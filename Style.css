@@ -55,7 +55,7 @@ li {
 }
 
 html {
-    background-image: url('/images/BG.jpg');
+    background-image: url('https://github.com/AyEnXP/saturnrp-site/blob/main/images/BG.jpg?raw=true');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
