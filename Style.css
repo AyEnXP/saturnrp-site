@@ -146,3 +146,14 @@ p {
     border-radius: 25px;
     align-items: left;
 }
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+    background-color: #67585cab;
+}
+
+.navbar a {
+    color: white;
+}
